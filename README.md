@@ -18,7 +18,7 @@ Risks:
 Risk Mitigation Plan:
   1) We will teach ourselves how to make a website using online tutorials, as well as our textbook and the help of our TA's office hours.
   2) We will read up on databases.
-  3) We are excited to learn javascript as it will help us in our futures. We will take many tutorials.
+  3) We are excited to learn javascript for the front end and php/mysql for the back end as it will help us in our futures. We will take many tutorials.
   4) We will have meetings often to better define the scope of the project as we continue using the agile method.
   5) We will try very hard to teach ourselves what we don't know. This is most of our first example of a real-life programming experience and we know that it will be useful for our careers so we will be very dedicated.
   
